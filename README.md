@@ -52,8 +52,34 @@ The analysis helped identify friction points in the purchasing process and oppor
 - `reports/` → Executive summary and project conclusions.
 
 ---
+---
 
+## Visualizations
+
+### Conversion Funnel Results
+
+![Conversion Funnel Results](images/funnel_analysis_by_country.png)
+
+---
+
+### Retention Analysis by Country
+
+![Retention Analysis by Country](images/retention_by_country.png)
+
+---
+
+### Business Insights
+
+![Business Insights](images/business_insights1.png)
+
+---
+
+### Additional Insights
+
+![Additional Insights](images/business_insights2.png)
 ## Author
+
+---
 
 Jorge Arenas  
 Data Analyst | Python | SQL | Power BI
