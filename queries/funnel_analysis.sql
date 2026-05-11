@@ -1,3 +1,13 @@
+-- ============================================
+-- Funnel Analysis by Country
+-- Project: Conversion Funnel & User Retention Analysis
+-- Author: Jorge Arenas
+-- Description:
+-- This query analyzes user progression through
+-- key stages of the e-commerce conversion funnel
+-- and calculates conversion rates by country.
+-- ============================================
+
 WITH CTE_first_visit AS (
     SELECT 
         DISTINCT user_id
